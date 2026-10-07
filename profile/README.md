@@ -18,7 +18,3 @@ Explore how we help WooCommerce stores run faster and scale with confidence.
 Technical articles, practical tutorials, and insights on WordPress, WooCommerce, and web performance.
 
 [Read the blog →](https://shift64.com/blog/)
-
----
-
-[shift64.com](https://shift64.com)
